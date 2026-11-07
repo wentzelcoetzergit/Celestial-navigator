@@ -1,0 +1,24 @@
+{
+  "name": "Celestial Navigator V1",
+  "short_name": "Celestial Nav",
+  "description": "Celestial navigation sight reduction and sextant altitude corrections",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9edf1",
+  "theme_color": "#252b33",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
